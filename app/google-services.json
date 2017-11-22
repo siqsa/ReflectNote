@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331810743686",
+    "firebase_url": "https://reflectnote.firebaseio.com",
+    "project_id": "reflectnote",
+    "storage_bucket": "reflectnote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331810743686:android:5f49f5139a1fb895",
+        "android_client_info": {
+          "package_name": "com.example.tidy1.reflectnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331810743686-b3j8sj9qp1tfnmvtage5tapubggel6r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tidy1.reflectnote",
+            "certificate_hash": "d658b7e48b385cda2a2b8b201da831bffc306996"
+          }
+        },
+        {
+          "client_id": "331810743686-6ug55vup9c790bh9oa6ee1hiqjelcgq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURx_bA0AuPZV-W3oFOhibbvYTEvmYHFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331810743686-6ug55vup9c790bh9oa6ee1hiqjelcgq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
